@@ -1,7 +1,5 @@
 # Depi
 Depi
-test
-test 2
 ## Assignment File
 
 * [Task_2](Assignment/Python/Task_2.ipynb)
@@ -10,3 +8,8 @@ test 2
 ### Sesion 4
 * [Assignment4](Assignment/Python/Assignment4.ipynb)
 * [files](Assignment/Python/files.ipynb)
+
+### Tasks oop
+[Task 4 OOP](Assignment/Python/Task4_oop.ipynb)
+[Problem Sloving OOP](Assignment/Python/ProblemSolving_oop.ipynb)
+[Task 1 to 6](Assignment/Python/Task_1_to_6.ipynb)
