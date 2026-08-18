@@ -15,3 +15,5 @@ Depi
 * [Task 1 to 6](Assignment/Python/Task_1_to_6.ipynb)
 ----
 ## Preprocessing
+* [Task Numpy](Assignment/perprocessing/np_task.ipynb)
+* [Task Pandas](Assignment/perprocessing/pandas_task.ipynb)
